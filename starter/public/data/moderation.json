@@ -1,0 +1,29 @@
+[
+  {
+    "id": "m-101",
+    "kind": "publication",
+    "project_slug": "hollow-bloom",
+    "project_title": "Пустоцвет",
+    "author": "Илья Ковалёв",
+    "submitted_at": "2026-11-18",
+    "summary": "Первая публикация карточки проекта"
+  },
+  {
+    "id": "m-102",
+    "kind": "card_edit",
+    "project_slug": "salt-and-sail",
+    "project_title": "Соль и парус",
+    "author": "Мария Седых",
+    "submitted_at": "2026-11-19",
+    "summary": "Правка публичного поля «Описание»"
+  },
+  {
+    "id": "m-103",
+    "kind": "demo",
+    "project_slug": "frost-signal",
+    "project_title": "Сигнал из мерзлоты",
+    "author": "Анна Белова",
+    "submitted_at": "2026-11-19",
+    "summary": "Демоверсия frost-signal-web.zip, 48 213 504 байт"
+  }
+]

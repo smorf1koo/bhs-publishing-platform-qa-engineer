@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "lantern-keeper",
+    "title": "Хранитель фонарей",
+    "author": "Анна Белова",
+    "genre": "Головоломка",
+    "tags": ["puzzle", "platformer", "cozy"],
+    "stage": "Вертикальный срез",
+    "cover_color": "#f2a541",
+    "teaser": "Уютный платформер-головоломка: зажигайте фонари, чтобы проложить путь через ночной город.",
+    "description": "Смотритель старого маяка разносит свет по ночному городу. Каждый фонарь меняет тени на уровне: они становятся платформами, мостами или ловушками. 30 уровней в 4 районах, прохождение — 3–4 часа.",
+    "moderation_status": "approved",
+    "published_at": "2026-10-20",
+    "niche": {
+      "tag": "Cozy puzzle-platformer",
+      "games_count": 214,
+      "median_price_usd": 9.99,
+      "median_reviews": 87,
+      "positive_share": 0.842,
+      "method": "Steam, теги Puzzle + Platformer + Cozy, релизы 2019–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-11-03"
+    },
+    "pitch": {
+      "public_version": 3,
+      "versions": [
+        { "version": 1, "hash": "a1c94e07b2d35f18", "created_at": "2026-08-14" },
+        { "version": 2, "hash": "5be0d7f3c9a21e64", "created_at": "2026-09-30" },
+        { "version": 3, "hash": "9f2c1a7be48d6053", "created_at": "2026-10-12" }
+      ],
+      "excerpt": "Головоломки на свете и тени в духе «Limbo» встречают уютную подачу «A Short Hike». Ниша растёт: в 2025 году вышло на 18% больше игр, чем в 2024-м, а медианная доля положительных отзывов — 84%."
+    },
+    "demo": {
+      "status": "ready",
+      "url": "/demos/lantern-keeper/index.html",
+      "size_bytes": 38797312,
+      "uploaded_at": "2026-10-18"
+    },
+    "private_materials": ["GDD", "Бюджет"]
+  },
+  {
+    "slug": "garden-of-shadows",
+    "title": "Садовник теней",
+    "author": "Илья Ковалёв",
+    "genre": "Roguelike",
+    "tags": ["roguelike", "deckbuilding", "dark-fantasy"],
+    "stage": "Прототип",
+    "cover_color": "#4b6b4f",
+    "teaser": "Roguelike-декбилдер, где колода — это сад: карты прорастают, цветут и увядают.",
+    "description": "Игрок выращивает колоду как сад: карты растут между боями, а увядшие удобряют новые. Забег длится 40–60 минут, после поражения сохраняются семена — постоянные улучшения.",
+    "moderation_status": "approved",
+    "published_at": "2026-09-02",
+    "niche": {
+      "tag": "Roguelike deckbuilder",
+      "games_count": 412,
+      "median_price_usd": 14.99,
+      "median_reviews": 140,
+      "positive_share": 0.781,
+      "method": "Steam, теги Roguelike + Deckbuilding, релизы 2017–2025; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-01-15"
+    },
+    "pitch": {
+      "public_version": 2,
+      "versions": [
+        { "version": 1, "hash": "0d7e2b9a61c4f835", "created_at": "2025-12-20" },
+        { "version": 2, "hash": "c38f5a1e9b07d246", "created_at": "2026-01-16" }
+      ],
+      "excerpt": "Ниша насыщена (412 игр), но у игр с необычной метафорой колоды медиана отзывов в 1,6 раза выше. Наша метафора — сад, где карты живут между боями."
+    },
+    "demo": {
+      "status": "ready",
+      "url": "/demos/garden-of-shadows/index.html",
+      "size_bytes": 61865984,
+      "uploaded_at": "2026-08-30"
+    },
+    "private_materials": ["GDD", "Бюджет"]
+  },
+  {
+    "slug": "orbit-courier",
+    "title": "Орбитальный курьер",
+    "author": "Мария Седых",
+    "genre": "Аркада",
+    "tags": ["arcade", "physics", "space"],
+    "stage": "Вертикальный срез",
+    "cover_color": "#2f4b8a",
+    "teaser": "Аркада о доставке посылок по орбитам: гравитация — ваш главный двигатель.",
+    "description": "Пилот почтового буксира развозит посылки между станциями, используя гравитационные манёвры. Короткие миссии по 2–3 минуты, таблица рекордов и редактор маршрутов.",
+    "moderation_status": "approved",
+    "published_at": "2026-11-05",
+    "niche": {
+      "tag": "Physics arcade",
+      "games_count": 158,
+      "median_price_usd": 6.99,
+      "median_reviews": 52,
+      "positive_share": 0.803,
+      "method": "Steam, теги Arcade + Physics + Space, релизы 2018–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-10-28"
+    },
+    "pitch": {
+      "public_version": 1,
+      "versions": [
+        { "version": 1, "hash": "e6a0b4c2d81f7395", "created_at": "2026-10-29" }
+      ],
+      "excerpt": "Короткие сессии и таблица рекордов: в нише физических аркад игры с режимом рекордов собирают в среднем на 35% больше отзывов."
+    },
+    "demo": {
+      "status": "ready",
+      "url": "/demos/orbit-courier/index.html",
+      "size_bytes": 24117248,
+      "uploaded_at": "2026-11-04"
+    },
+    "private_materials": ["GDD", "Бюджет"]
+  },
+  {
+    "slug": "tiny-tavern",
+    "title": "Крошечная таверна",
+    "author": "Дмитрий Орлов",
+    "genre": "Симулятор",
+    "tags": ["management", "cozy", "pixel-art"],
+    "stage": "Концепт",
+    "cover_color": "#a0522d",
+    "teaser": "Менеджмент таверны на одном экране: каждый гость приносит историю и заказ.",
+    "description": "Игрок управляет таверной на перекрёстке дорог: готовит блюда, нанимает помощников и слушает истории гостей. Демоверсия появится после первого игрового цикла.",
+    "moderation_status": "approved",
+    "published_at": "2026-07-11",
+    "niche": {
+      "tag": "Cozy management",
+      "games_count": 296,
+      "median_price_usd": 12.99,
+      "median_reviews": 64,
+      "positive_share": 0.817,
+      "method": "Steam, теги Management + Cozy, релизы 2019–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-07-01"
+    },
+    "pitch": {
+      "public_version": 1,
+      "versions": [
+        { "version": 1, "hash": "7c1d9e3f0a5b2486", "created_at": "2026-07-02" }
+      ],
+      "excerpt": "Менеджмент на одном экране для коротких сессий: такие игры в нише чаще попадают в подборки «уютных» игр."
+    },
+    "demo": { "status": "none" },
+    "private_materials": ["GDD"]
+  },
+  {
+    "slug": "frost-signal",
+    "title": "Сигнал из мерзлоты",
+    "author": "Анна Белова",
+    "genre": "Хоррор",
+    "tags": ["horror", "narrative", "exploration"],
+    "stage": "Прототип",
+    "cover_color": "#5d7d8f",
+    "teaser": "Нарративный хоррор на полярной станции: радиосигнал повторяет ваши слова раньше, чем вы их скажете.",
+    "description": "Радистка полярной станции расшифровывает сигнал, который предсказывает события на станции. Игра на 2 часа, без сражений, упор на звук и исследование.",
+    "moderation_status": "approved",
+    "published_at": "2026-10-01",
+    "niche": {
+      "tag": "Narrative horror",
+      "games_count": 537,
+      "median_price_usd": 9.99,
+      "median_reviews": 118,
+      "positive_share": 0.774,
+      "method": "Steam, теги Horror + Story Rich + Exploration, релизы 2019–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-09-25"
+    },
+    "pitch": {
+      "public_version": 2,
+      "versions": [
+        { "version": 1, "hash": "b4f81c0e6d29a573", "created_at": "2026-09-10" },
+        { "version": 2, "hash": "2a96d3e7f1c0b858", "created_at": "2026-09-26" }
+      ],
+      "excerpt": "Короткие нарративные хорроры на 1–3 часа — самый частый формат в нише и удобный формат для стримеров."
+    },
+    "demo": {
+      "status": "moderation",
+      "size_bytes": 48213504,
+      "uploaded_at": "2026-11-19"
+    },
+    "private_materials": ["GDD", "Бюджет"]
+  },
+  {
+    "slug": "paper-knights",
+    "title": "Бумажные рыцари",
+    "author": "Егор Литвинов",
+    "genre": "Тактика",
+    "tags": ["tactics", "turn-based", "papercraft"],
+    "stage": "Концепт",
+    "cover_color": "#c9b79c",
+    "teaser": "Пошаговая тактика в мире из бумаги: отряд складывается, мнётся и рвётся.",
+    "description": "Пошаговая тактика, где юниты сделаны из бумаги. Описание отклонено модерацией: в нём использованы чужие скриншоты.",
+    "moderation_status": "rejected",
+    "moderation_reason": "В описании и на обложке использованы материалы чужой игры.",
+    "published_at": null,
+    "niche": {
+      "tag": "Turn-based tactics",
+      "games_count": 389,
+      "median_price_usd": 17.99,
+      "median_reviews": 96,
+      "positive_share": 0.792,
+      "method": "Steam, теги Tactical + Turn-Based, релизы 2018–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-10-10"
+    },
+    "pitch": {
+      "public_version": 1,
+      "versions": [
+        { "version": 1, "hash": "f05e8a2c7b13d964", "created_at": "2026-10-11" }
+      ],
+      "excerpt": "Тактика с разрушаемыми юнитами — заметная, но малонасыщенная подниша."
+    },
+    "demo": { "status": "none" },
+    "private_materials": ["GDD"]
+  },
+  {
+    "slug": "hollow-bloom",
+    "title": "Пустоцвет",
+    "author": "Илья Ковалёв",
+    "genre": "Метроидвания",
+    "tags": ["metroidvania", "hand-drawn"],
+    "stage": "Концепт",
+    "cover_color": "#8e5c9e",
+    "teaser": "Рисованная метроидвания о цветке, который растёт вниз.",
+    "description": "Карта растёт вниз вместе с героем-корнем. Карточка ждёт первой модерации.",
+    "moderation_status": "pending",
+    "published_at": null,
+    "niche": {
+      "tag": "Metroidvania",
+      "games_count": 671,
+      "median_price_usd": 14.99,
+      "median_reviews": 133,
+      "positive_share": 0.806,
+      "method": "Steam, тег Metroidvania, релизы 2018–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-11-12"
+    },
+    "pitch": {
+      "public_version": 1,
+      "versions": [
+        { "version": 1, "hash": "3d8b6f1a0e9c2754", "created_at": "2026-11-13" }
+      ],
+      "excerpt": "Метроидвания с вертикальной картой «вниз» — редкий приём в насыщенной нише."
+    },
+    "demo": { "status": "none" },
+    "private_materials": ["GDD"]
+  },
+  {
+    "slug": "salt-and-sail",
+    "title": "Соль и парус",
+    "author": "Мария Седых",
+    "genre": "Приключение",
+    "tags": ["adventure", "sailing", "open-world"],
+    "stage": "Концепт",
+    "cover_color": "#2e8b8b",
+    "teaser": "Неспешное плавание по архипелагу: торгуйте, чините лодку и собирайте легенды островов.",
+    "description": "Небольшой открытый мир из 12 островов. Игрок торгует, чинит лодку и записывает легенды жителей в судовой журнал.",
+    "moderation_status": "approved",
+    "published_at": "2026-08-19",
+    "niche": {
+      "tag": "Sailing adventure",
+      "games_count": 87,
+      "median_price_usd": 19.99,
+      "median_reviews": 210,
+      "positive_share": 0.835,
+      "method": "Steam, теги Sailing + Adventure, релизы 2016–2026; медианы по играм с 10 и более отзывами",
+      "collected_at": "2026-08-12"
+    },
+    "pitch": {
+      "public_version": 1,
+      "versions": [
+        { "version": 1, "hash": "8a4c0f6e2b7d1935", "created_at": "2026-08-13" }
+      ],
+      "excerpt": "Малая ниша с высокой медианой отзывов: 87 игр, медиана — 210 отзывов."
+    },
+    "demo": { "status": "none" },
+    "private_materials": ["GDD", "Бюджет"]
+  }
+]
